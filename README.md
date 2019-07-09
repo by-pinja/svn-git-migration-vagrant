@@ -31,3 +31,6 @@ If you want to visualise repository after migration, it is safe to move migrated
 
 ### Show 20 largest files in current folder
 `du -a . | sort -n -r | head -n 20`
+
+### Remove files from git history
+https://help.github.com/en/articles/removing-sensitive-data-from-a-repository
